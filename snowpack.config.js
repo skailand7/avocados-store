@@ -5,6 +5,6 @@ module.exports = {
     src: "/_dist_",
   },
   buildOptions: {
-    baseUrl: "git@github.com:skailand7/avocados-store.git",
+    baseUrl: "https://skailand7.github.io/avocados-store",
   },
 };
